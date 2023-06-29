@@ -19,7 +19,7 @@ variables:
   imagePullSecret: 'k13docker513191db-auth'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  Name: 'default'
 
 
 stages:
